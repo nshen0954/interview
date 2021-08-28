@@ -3158,3 +3158,6 @@ int main( void )
 
 ### Select & epoll
 * [segmentfault . Select & epoll](https://segmentfault.com/a/1190000003063859)
+
+### Linux hook
+* [Linux Hook ](https://www.jianshu.com/p/f78b16bd8905)
