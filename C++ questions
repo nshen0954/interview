@@ -1,0 +1,4 @@
+1> Implementation shared_ptr
+2> do we need inline keyword?
+3> how to avoid virtual fuction overhead?
+4> dynamic_cast a pointer or a reference ?
